@@ -2,8 +2,6 @@
 
 ![languages](https://img.shields.io/github/languages/count/jxhnkndl/weather-dashboard?style=plastic)
 ![html](https://img.shields.io/github/languages/top/jxhnkndl/weather-dashboard?style=plastic)
-![commit](https://img.shields.io/github/last-commit/jxhnkndl/weather-dashboard?style=plastic)
-
 
 ## Table of Contents
 * [Deployed Application](#deployed-application)
@@ -18,7 +16,7 @@
 ## Deployed Application
 Weather Dashboard is live at the link below:
 
-[Weather Dashboard - Live Demo](https://jxhnkndl.github.io/weather-dashboard)
+[Weather Dashboard - Live Demo](https://m-mohid-error.github.io/TASK-3/)
 
 
 ## Description
